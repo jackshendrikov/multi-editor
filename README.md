@@ -61,5 +61,5 @@ In general, everything is based on the `Composite`, `Prototype` and `Visitor` pa
 </p>
 
 <p align="center">
-    <img src="img/result2.png" alt="Example 3">
+    <img src="img/result3.png" alt="Example 3">
 </p>
